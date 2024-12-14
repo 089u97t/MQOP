@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 13 Dec 2024 22:46:28 at http://10web-site.ai/400/thankful-werewolf/?from=websites&client_id=2487491&domain_id=308386&first_time +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://10web-site.ai/400/thankful-werewolf/?from=websites&client_id=2487491&domain_id=308386&first_time -O1 "C:\My Web Sites\MQP" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:46:31	Warning: 	Moved Permanently for 10web-site.ai/robots.txt
+22:46:31	Warning: 	Redirected link is identical because of 'URL Hack' option: 10web-site.ai/robots.txt and https://10web-site.ai/robots.txt
+22:46:31	Warning: 	Warning moved treated for 10web-site.ai/robots.txt (real one is https://10web-site.ai/robots.txt)
+22:46:31	Warning: 	Moved Permanently for 10web-site.ai/400/thankful-werewolf/?from=websites&client_id=2487491&domain_id=308386&first_time
+22:46:31	Warning: 	Redirected link is identical because of 'URL Hack' option: 10web-site.ai/400/thankful-werewolf/?from=websites&client_id=2487491&domain_id=308386&first_time and https://10web-site.ai/400/thankful-werewolf/?from=websites&client_id=2487491&domain_id=308386&first_time
+22:46:31	Warning: 	File has moved from 10web-site.ai/400/thankful-werewolf/?from=websites&client_id=2487491&domain_id=308386&first_time to https://10web-site.ai/400/thankful-werewolf/?from=websites&client_id=2487491&domain_id=308386&first_time
+22:46:39	Warning: 	Link https://10web-site.ai/400/thankful-werewolf/?from=websites%26client_id=2487491%26domain_id=308386%26first_time not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 seconds : 4 links scanned, 1 files written (383304 bytes overall) [50029 bytes received at 3848 bytes/sec], 389383 bytes transferred using HTTP compression in 2 files, ratio 12%
+(No errors, 7 warnings, 0 messages)
